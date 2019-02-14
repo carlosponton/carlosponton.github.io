@@ -1,0 +1,11 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "Hoja de vida de Carlos Pontón",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "node-sass --include-path scss style.scss style.css"
+},
+  "author": "Carlos Pontón",
+  "license": "ISC"
+}
